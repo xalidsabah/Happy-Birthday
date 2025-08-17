@@ -1,0 +1,6 @@
+# Python version requirements
+# This script works best with Python 3.6+
+# Python 2.7 is supported but with limited functionality
+
+# No external packages required - uses only Python standard library
+# Required modules: random, time, sys, re

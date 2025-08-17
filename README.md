@@ -1,8 +1,8 @@
-# 🎉 Happy Birthday - Ultimate XALID Edition with Sound 🔊
+# 🎉 Happy Birthday - Ultimate Edition with Sound 🔊
 
-A **revolutionary** and **technologically advanced** birthday celebration program featuring XALID-style ASCII art, particle systems, cutting-edge animations, and **immersive sound effects**!
+A **revolutionary** and **technologically advanced** birthday celebration program featuring ASCII art, particle systems, cutting-edge animations, and **immersive sound effects**!
 
-## ✨ What's New in the Ultimate XALID Edition with Sound
+## ✨ What's New
 
 ### 🔊 **Advanced Sound Engine**
 - **Multi-platform audio support** (Windows, macOS, Linux)
@@ -18,8 +18,8 @@ A **revolutionary** and **technologically advanced** birthday celebration progra
 - **Volume control** and sound muting options
 - **Platform-optimized** audio delivery
 
-### 🎨 **XALID-Style Visual Mastery**
-- **Advanced ASCII art** using XALID character set (█▓▒░▄▌▐▀▖▗▘▙▚▛▜▝▞▟)
+### 🎨 ** Visual Mastery**
+- **Advanced ASCII art** using ASCCI character set (█▓▒░▄▌▐▀▖▗▘▙▚▛▜▝▞▟)
 - **Professional borders** with double-line characters (╔═╗║╚╝)
 - **Modern box drawing** using Unicode box characters
 - **Enhanced color palette** with 20+ vibrant colors and effects
@@ -27,12 +27,12 @@ A **revolutionary** and **technologically advanced** birthday celebration progra
 ### 🚀 **Advanced Animation Engine**
 - **Particle system** with physics simulation (gravity, velocity, life cycles)
 - **Real-time rendering** with optimized screen updates
-- **Matrix rain effects** using XALID characters
+- **Matrix rain effects** using ASCII characters
 - **Dynamic explosions** with customizable intensity
 - **Smooth transitions** between animation states
 
 ### 🎭 **Ultimate Visual Effects**
-- **3D-style cake animations** with layered XALID characters
+- **3D-style cake animations** with layered ASCII characters
 - **Advanced fireworks** using particle physics
 - **Matrix-style rain** with authentic terminal aesthetics
 - **Professional banners** with multiple animation frames
@@ -47,7 +47,7 @@ A **revolutionary** and **technologically advanced** birthday celebration progra
 
 ## 🎊 Ultimate Features with Sound
 
-### 🎂 **XALID-Style Cake Animation with Audio**
+### 🎂 **Cake Animation with Audio**
 - Multi-layered cake using █▓▒░ characters
 - **Cake building sounds** with ascending tones
 - Smooth color transitions between frames
@@ -63,14 +63,14 @@ A **revolutionary** and **technologically advanced** birthday celebration progra
 - **Real-time rendering** with smooth animations
 
 ### 🌟 **Matrix Rain Effects with Audio**
-- **Authentic terminal aesthetics** using XALID characters
+- **Authentic terminal aesthetics** using ASCCI characters
 - **Random matrix sounds** for immersive experience
 - **Dynamic positioning** across the screen
 - **Color cycling** for enhanced visual appeal
 - **Performance optimized** for smooth execution
 
 ### 🎭 **Professional Banner System with Audio**
-- **Multiple XALID-style designs** with smooth transitions
+- **Multiple designs** with smooth transitions
 - **Banner transition sounds** with ascending frequencies
 - **Professional borders** using Unicode box characters
 - **Color cycling** between different banner styles
@@ -124,7 +124,6 @@ A **revolutionary** and **technologically advanced** birthday celebration progra
 # Clone or download the project
 cd Happy-Birthday
 
-# Run the Ultimate XALID Birthday Celebration with Sound
 python happy_birthday.py
 ```
 
@@ -135,20 +134,20 @@ When you run the program, you'll be prompted:
 
 ### **What Happens When You Run It**
 1. **🔊 Sound Setup** - Choose audio preferences
-2. **🎬 XALID Banner Sequence** - Professional ASCII art with transition sounds
+2. **🎬  Banner Sequence** - Professional ASCII art with transition sounds
 3. **🌟 Welcome Screen** - Ultimate celebration introduction
 4. **⚡ System Initialization** - Advanced loading with audio feedback
 5. **📝 Interactive Input** - Professional name collection
-6. **🎬 Matrix Rain** - XALID-style terminal effects with random sounds
+6. **🎬 Matrix Rain** -  terminal effects with random sounds
 7. **🎂 Cake Preparation** - 3D-style layered animations with building sounds
 8. **🎆 Particle Fireworks** - Physics-based explosion system with sound effects
 9. **🎵 Birthday Song** - Complete musical performance with rainbow text
 10. **🎉 Advanced Celebration** - Professional "Hip Hip Hooray" with audio
 11. **🌟 Grand Finale** - Victory fanfare and massive particle explosion
 
-## 🎨 XALID Character Set
 
-The Ultimate Edition uses professional XALID-style characters:
+
+The Ultimate Edition
 - **█** - Full block for solid areas
 - **▓** - Dark shade for depth
 - **▒** - Medium shade for layering
@@ -218,7 +217,7 @@ Press Enter to continue with sound, or type 'mute' to disable...
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 🎬 Initializing advanced celebration systems...
-🎂 Preparing your XALID-style birthday cake...
+🎂 Preparing your birthday cake...
 🎆 Launching advanced particle fireworks!
 🎵 Playing Happy Birthday song... 🎵
 🎉 HAPPY BIRTHDAY JOHN!
@@ -229,7 +228,7 @@ Press Enter to continue with sound, or type 'mute' to disable...
 
 ## 🤝 Contributing
 
-Enhance the Ultimate XALID Edition with Sound! Ideas:
+Enhance the Ultimate Edition with Sound! Ideas:
 - **Additional sound effects** and audio samples
 - **More musical compositions** and themes
 - **Advanced audio mixing** and effects
